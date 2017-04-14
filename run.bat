@@ -1,1 +1,1 @@
-bokeh serve --show source
+bokeh serve --show src

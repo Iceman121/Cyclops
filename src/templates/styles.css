@@ -1,0 +1,32 @@
+html {
+    width: 100%;
+}
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+body {
+	font-family: 'Noto Sans', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	color: #fff;
+	background: #2F2F2F;
+	min-width: 600px;
+    max-width: 900px;
+    width: 75%;
+	margin: auto;
+	}
+h1 {
+    margin: 2em 0 0 0;
+    color: yellow;
+    font-size: 1.8em;
+    text-transform: uppercase;
+}
+.content {
+    margin: 2em;
+}
+.bk-slider-parent
+{
+	font-size:12px
+}
+input[type="text"]
+{
+	color: white
+}
