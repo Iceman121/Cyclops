@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<style>
+		{% include 'styles.css' %}
+    </style>
+    <meta charset="utf-8">
+    <title>Exploratory Analysis</title>
+    {{ bokeh_css }}
+    {{ bokeh_js }}
+  </head>
+  <body>
+	<h1>Exploratory Dashboard</h1>
+	{{ plot_div|indent(8) }}
+	{{ plot_script|indent(8) }}
+  </body>
+</html>
