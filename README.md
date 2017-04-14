@@ -1,5 +1,13 @@
 # Building a Bokeh Dashboard Template for generic EDA
 
+## Instructions to Run
+Double-click on "run.bat". This opens the dashboard in browser.
+
+## Instructions to Close
+1. Close browser tab/window containing the dashboard.
+2. Navigate to command window that boots with the dashboard and press "Ctrl+C" **twice**.
+3. If the command windows asks if you are sure you want to terminate, press "y" and hit Enter.
+
 ## Current features:
 
 Two tabs intended:
