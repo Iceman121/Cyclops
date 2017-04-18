@@ -15,9 +15,9 @@ Two tabs intended:
 2. Bivariate visualization (Yet to be constructed)
 
 4 graphs exist, demonstrating each of the following functionalities:
-1. Use of slider to change n, where y = x^n
-2. Tap tool to select data points and fire a message box
-3. Selection of points in one chart, auto-calculating summary stats in another
+1. Use of slider to change n, where y = x^n.
+2. Tap tool to select data points and fire a message box.
+3. Selection of points in one chart, auto-calculating summary stats in another.
 
 Additionally, following features exist:
 1. Coordinated selection, panning and zooming
